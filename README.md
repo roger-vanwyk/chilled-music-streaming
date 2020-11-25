@@ -17,3 +17,5 @@ All uploads have a size restriction to keep the database small in size, and also
 ==TEST APP WITHOUT DOWNLOAD|INSTALLATION==
 
 Test the app without downloading or installing it at https://bit.ly/roger_chilled_streaming
+
+<img src="https://user-images.githubusercontent.com/55032378/100209487-9fb09a00-2f12-11eb-99ba-b89c5d9378ce.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/55032378/100209498-a17a5d80-2f12-11eb-9519-7f8881575fff.png" width="15%"></img>
